@@ -4,9 +4,9 @@
 📌 Graduate in Database Technology at Cruzeiro do Sul University<br/>
 
 <div>
-  <a href="https://github.com/thaismarques624">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisMarquesAndrade&show_icons=true&theme=dracula&include_all_counts=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMarquesAndrade&layout=compact&langs_count=22&theme=dracula"/>
+  <a href="https://github.com/ThaisMarquesAndrade">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThaisMarquesAndrade&show_icons=true&theme=dracula&include_all_counts=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMarquesAndrade&layout=compact&langs_count=22&theme=dracula"/>
   </a>
 </div>
 
