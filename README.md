@@ -3,11 +3,6 @@
 📌 Data Analytics Engineer JR in HR on Dock <br/>
 📌 Graduate in Database Technology at Cruzeiro do Sul University<br/>
 
-<div>
-  <a href="https://github.com/ThaisMarquesAndrade">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisMarquesAndrade&layout=compact&langs_count=22&theme=dracula"/>
-  </a>
-</div>
 
 ## 💻 Tech Stack on DOCK
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
